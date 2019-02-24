@@ -7,8 +7,8 @@
     left: 10%;
     top: 5%;
 
-    &.elements{
-        font-family: 'Roboto';
+    .elements{
+        font-family: Roboto;
         font-style: normal;
         font-weight: normal;
         line-height: normal;
@@ -18,6 +18,6 @@
         width: 30%;
         height: 50%;
         left: 50%;
-        top: 200%;
+        top: 100%;
     }
 }

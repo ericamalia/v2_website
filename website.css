@@ -5,4 +5,18 @@
     height: 100%;
     left: 10%;
     top: 5%;
+
+    &.elements{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        font-size: 24px;
+        text-align: center;
+    
+        width: 30%;
+        height: 50%;
+        left: 40%;
+        top: 100%;
+    }
 }

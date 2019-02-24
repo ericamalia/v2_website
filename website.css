@@ -7,7 +7,7 @@
     left: 10%;
     top: 5%;
 
-    .elements{
+    &.elements{
         font-family: Roboto;
         font-style: normal;
         font-weight: normal;
@@ -15,9 +15,9 @@
         font-size: 24px;
         text-align: center;
     
-        width: 30%;
-        height: 50%;
-        left: 50%;
-        top: 100%;
+        width: 61px;
+        height: 40px;
+        left: 78px;
+        top: 322px;
     }
 }

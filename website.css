@@ -6,12 +6,12 @@
     height: 98%;
     left: 0.7%;
     top: 1.5%;
-    font-family: Roboto;
+    font-family: 'Roboto';
 }
 .elements{
     display: flex;
     flex-direction: column;
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
     line-height: normal;

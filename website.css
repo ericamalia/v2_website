@@ -6,6 +6,7 @@
     height: 98%;
     left: 0.5%;
     top: 1.5%;
+    font-family: 'Roboto';
 }
 .elements{
     font-family: 'Roboto';
@@ -16,5 +17,5 @@
     text-align: center;
 
     align-content: center;
-    padding-top: 150%;
+    padding-top: 300px;
 }

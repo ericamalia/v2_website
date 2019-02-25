@@ -3,9 +3,9 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 186px;
-    height: 100%;
-    left: 10%;
-    top: 6%;
+    height: 98%;
+    left: 5%;
+    top: 2%;
 }
 .elements{
     font-family: Roboto;
@@ -16,6 +16,6 @@
     text-align: center;
 
     align-content: center;
-    padding-top: 100px;
+    padding-top: 70%;
 
 }

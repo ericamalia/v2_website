@@ -4,8 +4,8 @@
     position: absolute;
     width: 186px;
     height: 98%;
-    left: 1%;
-    top: 2%;
+    left: 0.5%;
+    top: 1.5%;
 }
 .elements{
     font-family: Roboto;
@@ -16,6 +16,5 @@
     text-align: center;
 
     align-content: center;
-    padding-top: 70%;
-
+    padding-top: 100%;
 }

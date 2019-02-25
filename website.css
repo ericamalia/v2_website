@@ -1,4 +1,4 @@
-@import url(//fonts.google.com/specimen/Roboto);
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400,500,300);
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
@@ -6,12 +6,12 @@
     height: 98%;
     left: 0.7%;
     top: 1.5%;
-    font-family: 'Roboto';
+    font-family: Roboto;
 }
 .elements{
     display: flex;
     flex-direction: column;
-    font-family: "Roboto";
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     line-height: normal;

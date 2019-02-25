@@ -2,14 +2,11 @@
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
-    width: 186px;
+    width: 180px;
     height: 98%;
     left: 0.7%;
     top: 1.5%;
     
-}
-.prof{
-    left: 0.7%;
 }
 .elements{
     display: flex;

@@ -30,14 +30,15 @@
 }
 .head-intro{
     left: 30%;
-    .myname{
-        font-family: 'Roboto', sans-serif;
-        font-weight: bold;
-        line-height: normal;
-        font-size: 64px;
-        text-align: center;
-        letter-spacing: 0.01em;
-        color: #000000;
-    }
     
+}
+.myname{
+    left: 30%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
 }

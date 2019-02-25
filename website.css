@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 185px;
     height: 98%;
     left: 0.7%;
-    top: 1.5%;
-    
+    top: 1.5%;   
 }
 .prof{
     align-content: center; 
@@ -27,4 +27,17 @@
     align-content: center;
     justify-content: space-between;
     padding-top: 80px;
+}
+.head-intro{
+    left: 30%;
+    .name{
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        line-height: normal;
+        font-size: 64px;
+        text-align: center;
+        letter-spacing: 0.01em;
+        color: #000000;
+    }
+    
 }

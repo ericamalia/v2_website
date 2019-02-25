@@ -1,8 +1,9 @@
 @import url('https://fonts.google.com/specimen/Roboto');
 .navigation{
     background: rgba(246, 242, 242, 0.58);
+    position: absolute;
     width: 186px;
-    height: 1069px;
+    height: 100%;
     left: 10%;
     top: 6%;
 }
@@ -15,7 +16,6 @@
     text-align: center;
 
     align-content: center;
-   
-    padding-top: 60%;
+    padding-top: 100px;
 
 }

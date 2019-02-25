@@ -2,13 +2,13 @@
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
-    width: 50%;
+    width: 40%;
     height: 100%;
-    left: 10%;
-    top: 5%;
+    left: 5%;
+    top: 3%;
 }
 .elements{
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
     line-height: normal;

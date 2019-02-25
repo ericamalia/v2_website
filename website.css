@@ -4,18 +4,22 @@
     position: absolute;
     width: 186px;
     height: 98%;
-    left: 0.5%;
+    left: 0.7%;
     top: 1.5%;
     font-family: 'Roboto';
 }
 .elements{
-    font-family: 'Roboto';
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     line-height: normal;
     font-size: 24px;
     text-align: center;
+    color: #3C3838;
 
     align-content: center;
+    justify-content: space-around;
     padding-top: 300px;
 }

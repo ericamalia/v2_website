@@ -2,7 +2,7 @@
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
-    width: 180px;
+    width: 21%;
     height: 98%;
     left: 0.7%;
     top: 1.5%;
@@ -22,5 +22,4 @@
     align-content: center;
     justify-content: space-between;
     padding-top: 40%;
-    margin: 2px;
 }

@@ -30,9 +30,12 @@
 }
 .head-intro{
     padding-left:300px;
+    display:flex;
+    flex-direction: column;
 
     .myname{
         padding-left: 300px;
+        padding-top: 100px;
         font-weight: bolder;
         font-family: 'Raleway', sans-serif;
         line-height: normal;

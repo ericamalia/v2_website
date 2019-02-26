@@ -20,7 +20,7 @@
     font-style: normal;
     font-weight: normal;
     line-height: normal;
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
     color: #3C3838;
 
@@ -47,7 +47,7 @@
 .bio{
     padding-left: 240px;
     padding-top: 20px; 
-    padding-right: 20%;
+    padding-right: 16%;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
@@ -55,4 +55,23 @@
     letter-spacing: .01px;
     font-size: 18px;
     color: #8A898B;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    .purple{
+        background: #D9CDDF;
+        width: 113.26px;
+        height: 21px;
+        &.rect1{
+            padding-left: 370px;
+        }
+        &.rect2{
+            padding-left: 610px;
+        }
+        &.rect3{
+            padding-left: 820px;
+        }
+    }
 }

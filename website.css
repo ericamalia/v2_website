@@ -67,6 +67,8 @@
     display: flex;
     flex-direction: row;
     align-content: space-between;
+    padding-left: 240px;
+    padding-top: 100px; 
 }
 .purprect1{
     padding-left: 370px;

@@ -32,7 +32,7 @@
     left: 20%;
 }
 .myname{
-    left: 20%;
+    padding-left: 100px;
     font-family: 'Raleway', sans-serif;
     font-weight: bolder;
     line-height: normal;

@@ -60,18 +60,19 @@
 .links{
     display: flex;
     flex-direction: row;
-    .purple{
-        background: #D9CDDF;
-        width: 113.26px;
-        height: 21px;
-        &.rect1{
-            padding-left: 370px;
-        }
-        &.rect2{
-            padding-left: 610px;
-        }
-        &.rect3{
-            padding-left: 820px;
-        }
+
+}
+.purple{
+    background-color: #D9CDDF;
+    width: 113.26px;
+    height: 21px;
+    &.rect1{
+        padding-left: 370px;
+    }
+    &.rect2{
+        padding-left: 610px;
+    }
+    &.rect3{
+        padding-left: 820px;
     }
 }

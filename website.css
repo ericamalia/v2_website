@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Raleway:700');
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
@@ -34,7 +34,7 @@
 .myname{
     padding-left: 200px;
     font-weight: bolder;
-    font-family: 'Raleway Bold';
+    font-family: 'Raleway', sans-serif;
     line-height: normal;
     font-size: 64px;
     letter-spacing: 0.01px;

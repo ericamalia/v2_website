@@ -29,26 +29,27 @@
     padding-top: 80px;
 }
 .head-intro{
-    left: 20%;
-}
-.myname{
-    padding-left: 300px;
-    font-weight: bolder;
-    font-family: 'Raleway', sans-serif;
-    line-height: normal;
-    font-size: 64px;
-    letter-spacing: 0.01px;
-    color: #000000;
-}
-.bio{
-    padding-left: 300px;
-    padding-top: 50px; 
-    padding-right: 300px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: normal;
-    line-height: normal;
-    letter-spacing: .01px;
-    font-size: 25px;
-    color: #8A898B;
+    padding-left:300px;
+
+    .myname{
+        padding-left: 300px;
+        font-weight: bolder;
+        font-family: 'Raleway', sans-serif;
+        line-height: normal;
+        font-size: 64px;
+        letter-spacing: 0.01px;
+        color: #000000;
+    }
+    .bio{
+        padding-left: 300px;
+        top: 150px; 
+        right: 300px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        letter-spacing: .01px;
+        font-size: 25px;
+        color: #8A898B;
+    }
 }

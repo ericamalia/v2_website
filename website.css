@@ -42,10 +42,12 @@
 }
 .bio{
     padding-left: 208px;
+    padding-top: 30px; 
     font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
     line-height: normal;
-    font-size: 18px;
+    letter-spacing: .01px;
+    font-size: 22px;
     color: #8A898B;
 }

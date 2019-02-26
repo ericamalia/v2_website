@@ -58,14 +58,15 @@
 }
 
 .links{
-    display: flex;
-    flex-direction: row;
 
 }
 .purple{
     background-color: #D9CDDF;
     width: 113.26px;
     height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
     &.rect1{
         padding-left: 370px;
     }

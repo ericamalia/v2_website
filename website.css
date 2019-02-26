@@ -62,18 +62,18 @@
 }
 .purple{
     background-color: #D9CDDF;
-    width: 59px;
+    width: 113.26px;
     height: 21px;
     display: flex;
     flex-direction: row;
     align-content: space-between;
 }
 .purple .rect1{
-    padding-left: 370px;
+    left: 370px;
 }
 .purple .rect2{
-    padding-left: 610px;
+    left: 610px;
 }
 .purple .rect3{
-    padding-left: 820px;
+    left: 820px;
 }

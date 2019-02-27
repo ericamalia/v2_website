@@ -74,14 +74,16 @@
     text-align: center;
 }
 .rect2{
+    position: relative;
     background-color: #D9CDDF;
     width: 10px;
     height: 21px;
-    padding-left: 25%;
+    left: 25%;
 }
 .rect3{
+    position: relative;
     background-color: #D9CDDF;
     width: 10px;
     height: 21px;
-    padding-left: 28%;
+    left: 28%;
 }

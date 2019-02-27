@@ -66,20 +66,20 @@
     padding-top: 100px; 
 }
 .purple .rect1{
-    background-color: #D9CDDF;
-    width: 50px;
+    color: #D9CDDF;
+    width: 10px;
     height: 21px;
     padding-left: 20%;
 }
 .purple .rect2{
-    background-color: #D9CDDF;
-    width: 50px;
+    color: #D9CDDF;
+    width: 10px;
     height: 21px;
-    padding-left: 30%;
+    padding-left: 25%;
 }
 .purple .rect3{
-    background-color: #D9CDDF;
-    width: 50px;
+    color: #D9CDDF;
+    width: 10px;
     height: 21px;
-    padding-left: 40%;
+    padding-left: 30%;
 }

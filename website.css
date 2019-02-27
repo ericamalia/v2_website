@@ -63,13 +63,13 @@
 .purple{
     display: flex;
     flex-direction: row;
-    padding-top: 100px; 
+    padding-top: 90px; 
 }
 .rect1{
     background-color: #D9CDDF;
     width: 20px;
     height: 21px;
-    padding-left: 20%;
+    padding-left: 22%;
 }
 .purple .rect2{
     background-color: #D9CDDF;
@@ -81,5 +81,5 @@
     background-color: #D9CDDF;
     width: 10px;
     height: 21px;
-    padding-left: 30%;
+    padding-left: 28%;
 }

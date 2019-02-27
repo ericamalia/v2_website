@@ -63,7 +63,7 @@
 .purple{
     display: flex;
     flex-direction: row;
-    padding-top: 85px;
+    padding-top: 88px;
 }
 .rect1{
     position: relative;
@@ -78,12 +78,12 @@
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 40%;
+    left: 35%;
 }
 .rect3{
     position: relative;
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 60%;
+    left: 50%;
 }

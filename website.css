@@ -65,20 +65,20 @@
     flex-direction: row;
     padding-top: 100px; 
 }
-.purple .rect1{
-    color: #D9CDDF;
-    width: 10px;
+.rect1{
+    background-color: #D9CDDF;
+    width: 20px;
     height: 21px;
     padding-left: 20%;
 }
 .purple .rect2{
-    color: #D9CDDF;
+    background-color: #D9CDDF;
     width: 10px;
     height: 21px;
     padding-left: 25%;
 }
 .purple .rect3{
-    color: #D9CDDF;
+    background-color: #D9CDDF;
     width: 10px;
     height: 21px;
     padding-left: 30%;

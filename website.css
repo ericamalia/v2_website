@@ -63,7 +63,7 @@
 .purple{
     display: flex;
     flex-direction: row;
-    padding-top: 90px;
+    padding-top: 80px;
 }
 .rect1{
     position: relative;

@@ -60,11 +60,7 @@
 .links{
 
 }
-.purple{
-    display: flex;
-    flex-direction: row;
-    padding-top: 90px; 
-}
+
 .rect1{
     background-color: #D9CDDF;
     width: 20px;

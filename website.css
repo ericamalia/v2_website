@@ -68,22 +68,22 @@
 .rect1{
     position: relative;
     background-color: #D9CDDF;
-    width: 20px;
+    width: 113px;
     height: 21px;
-    left: 22%;
+    left: 20%;
     text-align: center;
 }
 .rect2{
     position: relative;
     background-color: #D9CDDF;
-    width: 10px;
+    width: 113px;
     height: 21px;
-    left: 25%;
+    left: 30%;
 }
 .rect3{
     position: relative;
     background-color: #D9CDDF;
-    width: 10px;
+    width: 113px;
     height: 21px;
-    left: 28%;
+    left: 40%;
 }

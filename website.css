@@ -62,9 +62,8 @@
 }
 .purple{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     padding-top: 90px;
-
 }
 .rect1{
     position: relative;

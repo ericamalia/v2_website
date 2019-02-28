@@ -119,7 +119,7 @@
     display: flex;
     flex-direction: row;
     position: relative;
-    top: 66px;
+    top: 60px;
     color: #555157;
     font-family: 'Roboto';
     font-style: normal;
@@ -134,11 +134,11 @@
 }
 .lrect2{
     position: relative;
-    left: 42%;
+    left: 41%;
     text-align: center;
 }
 .lrect3{
     position: relative;
-    left: 56%;
+    left: 57%;
     text-align: center;
 }

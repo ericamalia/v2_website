@@ -68,7 +68,7 @@
     background-color:#E09898;
     width: 113px;
     height: 21px;
-    left: 26%;
+    left: 25%;
     text-align: center;
 }
 .prect2{
@@ -76,14 +76,14 @@
     background-color: #98CAE0;
     width: 113px;
     height: 21px;
-    left: 40%;
+    left: 39%;
 }
 .prect3{
     position: relative;
     background-color: #EDE099;
     width: 113px;
     height: 21px;
-    left: 56%;
+    left: 55%;
 }
 
 .purple{
@@ -97,7 +97,7 @@
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 23%;
+    left: 22%;
     text-align: center;
 }
 .rect2{
@@ -105,13 +105,40 @@
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 38%;
+    left: 37%;
 }
 .rect3{
     position: relative;
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 53%;
+    left: 52%;
 }
 
+.linkname{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 82px;
+    color: #555157;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.02px;
+}
+.lrect1{
+    position: relative;
+    left: 22%;
+    text-align: center;
+}
+.lrect2{
+    position: relative;
+    left: 37%;
+    text-align: center;
+}
+.lrect3{
+    position: relative;
+    left: 52%;
+    text-align: center;
+}

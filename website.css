@@ -60,6 +60,7 @@
 .primary{
     display:flex;
     flex-direction: row;
+    position: relative;
     top: 85px;
 }
 .prect1{
@@ -88,6 +89,7 @@
 .purple{
     display: flex;
     flex-direction: row;
+    position: relative;
     top: 82px;
 }
 .rect1{

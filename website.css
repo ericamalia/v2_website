@@ -120,12 +120,14 @@
     flex-direction: row;
     position: relative;
     top: 52px;
-    color: #555157;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
     letter-spacing: 0.02px;
+}
+a{
+    color: #555157;
 }
 .lrect1{
     position: relative;

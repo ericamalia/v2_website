@@ -60,7 +60,7 @@
 .primary{
     display:flex;
     flex-direction: row;
-    padding-top: 85px;
+    top: 85px;
 }
 .prect1{
     position: relative;
@@ -88,7 +88,7 @@
 .purple{
     display: flex;
     flex-direction: row;
-    padding-top: -2px;
+    top: 82px;
 }
 .rect1{
     position: relative;

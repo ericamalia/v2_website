@@ -68,7 +68,7 @@
     background-color:#E09898;
     width: 113px;
     height: 21px;
-    left: 28%;
+    left: 26%;
     text-align: center;
 }
 .prect2{
@@ -76,28 +76,28 @@
     background-color: #98CAE0;
     width: 113px;
     height: 21px;
-    left: 42%;
+    left: 40%;
 }
 .prect3{
     position: relative;
     background-color: #EDE099;
     width: 113px;
     height: 21px;
-    left: 58%;
+    left: 56%;
 }
 
 .purple{
     display: flex;
     flex-direction: row;
     position: relative;
-    top: 82px;
+    top: 83px;
 }
 .rect1{
     position: relative;
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 25%;
+    left: 23%;
     text-align: center;
 }
 .rect2{
@@ -105,13 +105,13 @@
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 40%;
+    left: 38%;
 }
 .rect3{
     position: relative;
     background-color: #D9CDDF;
     width: 113px;
     height: 21px;
-    left: 55%;
+    left: 53%;
 }
 

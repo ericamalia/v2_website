@@ -51,7 +51,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
-    line-height: 0.05px;
+    line-height: 1px;
     letter-spacing: .01px;
     font-size: 18px;
     color: #8A898B;
@@ -119,7 +119,7 @@
     display: flex;
     flex-direction: row;
     position: relative;
-    top: 82px;
+    top: 79px;
     color: #555157;
     font-family: 'Roboto';
     font-style: normal;
@@ -129,16 +129,16 @@
 }
 .lrect1{
     position: relative;
-    left: 22%;
+    left: 24%;
     text-align: center;
 }
 .lrect2{
     position: relative;
-    left: 37%;
+    left: 39%;
     text-align: center;
 }
 .lrect3{
     position: relative;
-    left: 52%;
+    left: 54%;
     text-align: center;
 }

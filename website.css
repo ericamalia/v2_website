@@ -142,3 +142,11 @@
     left: 57%;
     text-align: center;
 }
+
+.line{
+    position: relative;
+    left: 230px;
+    width: 80%; 
+    height: 10px; 
+    border: 1px solid #8A898B;
+}

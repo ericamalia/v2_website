@@ -173,3 +173,15 @@ a{
     letter-spacing: 0.03em;
     color: #000000;
 }
+#description{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    letter-spacing: 0.05em;
+
+    color: #817B85;
+    width: 50%;
+
+}

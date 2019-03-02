@@ -188,9 +188,10 @@ a{
 }
 
 .more_button{
-    padding-top: 12px;
+    padding-top: 18px;
 }
 #rectButton{
+    position: relative;
     width: 188px;
     height: 33px;
     background: #FFFFFF;
@@ -199,6 +200,8 @@ a{
     border-radius: 20px;    
 }
 #buttonName{
+    position: relative;
+    text-align: center;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;

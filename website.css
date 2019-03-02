@@ -61,7 +61,7 @@
     display:flex;
     flex-direction: row;
     position: relative;
-    top: 83px;
+    top: 77px;
 }
 .prect1{
     position: relative;
@@ -148,7 +148,7 @@ a{
 .line{
     position: relative;
     left: 230px;
-    top: 98px;
+    top: 100px;
     width: 75%; 
     border: 1px solid #8A898B;
 }
@@ -199,7 +199,7 @@ a{
     box-sizing: border-box;
     border-radius: 20px;  
     
-    padding-top: 1px;
+    padding-top: 3px;
     text-align: center;
     font-family: 'Roboto';
     font-weight: 500;

@@ -157,7 +157,7 @@ a{
     position: relative;
     display:flex;
     flex-direction: row;
-    top: 70%;
+    top: 100px;
     left: 240px;
 }
 .content{

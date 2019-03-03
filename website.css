@@ -90,7 +90,7 @@
     display: flex;
     flex-direction: row;
     position: relative;
-    top: 66px;
+    top: 64px;
 }
 .rect1{
     position: relative;
@@ -119,7 +119,7 @@
     display: flex;
     flex-direction: row;
     position: relative;
-    top: 40px;
+    top: 35px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;

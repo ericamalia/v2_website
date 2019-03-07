@@ -2,14 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:700');
 .navigation{
     background: rgba(246, 242, 242, 0.58);
-    position: relative;
+    position: absolute;
     width: 185px;
     height: 100%;
     left: 0.7%;
     top: 1.5%;   
 }
 #icon{
-    
+    position: relative;
+    left: 5px;
 }
 .prof{
     align-content: center; 

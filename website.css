@@ -198,7 +198,7 @@ a{
 #more_text{
     position: relative;
     font-family: 'Roboto';
-    font-weight: 500;
+    font-weight: 600;
     font-size: 14px;
     letter-spacing: 0.06em;
     color: #592A6F;
@@ -207,8 +207,6 @@ a{
     position: relative;
     width: 23px;
     height: 0px;
-    left: 475px;
-    top: 711px;
     border: 1.5px solid #592A6F;
 }
 

@@ -8,14 +8,11 @@
     left: 0.7%;
     top: 1.5%;   
 }
-#icon{
-    position: relative;
-    left: 5px;
-}
+
 .prof{
     align-content: center; 
-    padding-left: 6px;
-    padding-top: 120px;
+    padding-left: 1px;
+    padding-top: 140px;
 }
 .elements{
     display: flex;

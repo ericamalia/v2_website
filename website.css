@@ -56,6 +56,9 @@
     font-size: 18px;
     color: #8A898B;
 }
+#hello{
+    font-size: 22px;
+}
 
 .primary{
     display:flex;
@@ -177,12 +180,12 @@ a{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
-    line-height: normal;
+    line-height: 18px;
     font-size: 14px;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     line-height: 18px;
 
-    color: #817B85;
+    color: #7E7A80;
     width: 25%;
     padding-top: 15px;
 }

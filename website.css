@@ -7,11 +7,12 @@
     height: 100%;
     left: 0.7%;
     top: 1.5%;   
+    bottom: 0;
 }
 
 .prof{
     align-content: center; 
-    padding-top: 150px;
+    padding-top: 160px;
 }
 .elements{
     display: flex;
@@ -26,7 +27,7 @@
 
     align-content: center;
     justify-content: space-between;
-    padding-top: 80px;
+    padding-top: 70px;
 }
 #elm{
     padding-top: 10px;
@@ -191,7 +192,7 @@ a{
 }
 
 .more{
-    padding-top: 18px;
+    padding-top: 22px;
     display:flex;
     flex-direction: row;
 }

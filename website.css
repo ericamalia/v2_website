@@ -161,7 +161,7 @@ a{
     position: relative;
     display:flex;
     flex-direction: row;
-    top: 120px;
+    top: 130px;
     left: 240px;
 }
 .content{
@@ -188,11 +188,11 @@ a{
 
     color: #7E7A80;
     width: 25%;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 .more{
-    padding-top: 22px;
+    padding-top: 30px;
     display:flex;
     flex-direction: row;
 }

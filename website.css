@@ -169,6 +169,7 @@ a{
     flex-direction: column;
 }
 #title{
+    padding-top: 30px;
     font-family: 'Raleway';
     font-weight: 450;
     line-height: normal;

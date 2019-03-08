@@ -180,9 +180,10 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 900px;
-    height: 250px;
+    width: 850px;
+    height: 200px;
     top: 50px;
+    left: 30px;
     background: #E09898;
 }
 #description{
@@ -193,6 +194,7 @@ a{
     font-size: 18px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    padding: 0px;
     left: 10px;
 }
 

@@ -201,6 +201,7 @@ a{
     padding-top: 30px;
     display:flex;
     flex-direction: row;
+    left: 5px;
 }
 #more_text{
     position: relative;
@@ -210,6 +211,7 @@ a{
     letter-spacing: 0.06em;
     color: #592A6F;
 }
+
 
 
 

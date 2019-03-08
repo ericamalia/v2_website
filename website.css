@@ -182,8 +182,8 @@ a{
     position: relative;
     width: 850px;
     height: 200px;
-    top: 50px;
-    left: 30px;
+    top: 44px;
+    left: 40px;
     background: #E09898;
 }
 #description{
@@ -194,16 +194,17 @@ a{
     font-size: 18px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+
     padding: 0px;
-    left: 10px;
-    top: 10px;
+    left: 46px;
+    top: 0px;
 }
 
 .more{
-    padding-top: 30px;
+    padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 10px;
+    left: 46px;
 }
 #more_text{
     position: relative;

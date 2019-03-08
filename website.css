@@ -181,8 +181,8 @@ a{
     position: relative;
     width: 657px;
     height: 197px;
-    left: 100px;
-    top: 200px;
+    left: 0px;
+    top: 100px;
     background: #E09898;
 }
 #description{

@@ -176,7 +176,7 @@ a{
     letter-spacing: 0.03em;
     color: #4C494E;
 }
-#backrect1{
+.backrect1{
     position: relative;
     width: 657px;
     height: 197px;
@@ -191,8 +191,8 @@ a{
     line-height: 23px;
     font-size: 18px;
     letter-spacing: 0.04em;
-
     color: #FFFFFF;
+    padding-top: 40px;
 }
 
 .more{

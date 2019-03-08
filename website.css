@@ -180,7 +180,7 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 60%;
+    width: 800px;
     height: 197px;
     left: 0px;
     top: 50px;
@@ -194,7 +194,7 @@ a{
     font-size: 18px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    top: 30px;
+    top: 15px;
 }
 
 .more{

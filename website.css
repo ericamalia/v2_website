@@ -4,7 +4,7 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 185px;
-    height: 5000px;
+    height: 1000px;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
@@ -181,8 +181,8 @@ a{
     position: relative;
     width: 657px;
     height: 197px;
-    left: 200px;
-    top: 300px;
+    left: 100px;
+    top: 200px;
     background: #E09898;
 }
 #description{

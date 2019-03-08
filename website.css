@@ -194,13 +194,14 @@ a{
     letter-spacing: 0.04em;
     color: #FFFFFF;
     top: 5px;
+    left: 10px;
 }
 
 .more{
     padding-top: 30px;
     display:flex;
     flex-direction: row;
-    left: 5px;
+    left: 10px;
 }
 #more_text{
     position: relative;

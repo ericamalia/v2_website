@@ -197,15 +197,16 @@ a{
 
     padding: 0px;
     left: 46px;
-    top: -70px;
+    top: -100px;
 }
 
 .more{
+    position: relative;
     padding-top: 20px;
     display:flex;
     flex-direction: row;
     left: 50px;
-    top: -40px;
+    top: -80px;
 }
 #more_text{
     position: relative;
@@ -214,7 +215,6 @@ a{
     font-size: 14px;
     letter-spacing: 0.06em;
     color: #592A6F;
-    left: 40px;
 }
 
 

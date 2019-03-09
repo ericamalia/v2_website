@@ -180,7 +180,7 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 850px;
+    width: 890px;
     height: 200px;
     top: 44px;
     left: 40px;
@@ -197,14 +197,14 @@ a{
 
     padding: 0px;
     left: 46px;
-    top: 0px;
+    top: -40px;
 }
 
 .more{
     padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 46px;
+    left: 50px;
 }
 #more_text{
     position: relative;

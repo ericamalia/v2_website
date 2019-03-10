@@ -170,6 +170,7 @@ a{
     flex-direction: column;
 }
 #title{
+    position: relative;
     padding-top: 30px;
     font-family: 'Raleway';
     font-weight: 450;
@@ -177,13 +178,14 @@ a{
     font-size: 30px;
     letter-spacing: 0.03em;
     color: #4C494E;
+    left: 13%;
 }
 .backrect1{
     position: relative;
-    width: 900px;
+    max-width: 920px;
     height: 200px;
     top: 44px;
-    left: 17%;
+    left: 16%;
     background: #E09898;
 }
 #description{
@@ -196,7 +198,7 @@ a{
     color: #FFFFFF;
 
     padding: 0px;
-    left: 20%;
+    left: 19%;
     top: -115px;
 }
 
@@ -205,7 +207,7 @@ a{
     padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 21%;
+    left: 20%;
     top: -90px;
 }
 #more_text{

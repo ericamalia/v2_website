@@ -182,7 +182,7 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 250%;
+    max-width: 1200px;
     height: 200px;
     top: 44px;
     left: 16.5%;

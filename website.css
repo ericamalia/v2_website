@@ -159,7 +159,7 @@ a{
 }
 .link1{
     position: relative;
-    left: 26%;
+    left: 29%;
 }
 .link2{
     position: relative;
@@ -167,7 +167,7 @@ a{
 }
 .link3{
     position: relative;
-    left: 62%;
+    left: 59%;
 }
 .line{
     position: relative;
@@ -201,6 +201,7 @@ a{
 }
 .backrect1{
     position: relative;
+    margin: auto; 
     width: 250%;
     height: 200px;
     top: 44px;

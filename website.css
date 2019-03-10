@@ -202,7 +202,8 @@ a{
 .backrect1{
     position: relative;
     margin: auto; 
-    width: 250%;
+    width: 920px;
+    max-width: 900px;
     height: 200px;
     top: 44px;
     left: 16.5%;

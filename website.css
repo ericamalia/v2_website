@@ -13,7 +13,7 @@
 .prof{
     align-content: center; 
     padding-top: 160px;
-    left: 0.5%;
+    left: 0.3%;
 }
 .elements{
     display: flex;
@@ -180,7 +180,7 @@ a{
 }
 .backrect1{
     position: relative;
-    max-width: 900px;
+    width: 900px;
     height: 200px;
     top: 44px;
     left: 18%;

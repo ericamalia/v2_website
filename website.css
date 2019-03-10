@@ -150,6 +150,7 @@ a{
     text-align: center;
 }
 */
+
 .links{
     display: flex;
     flex-direction: row;
@@ -158,15 +159,15 @@ a{
 }
 .link1{
     position: relative;
-    left: 23%;
+    left: 25%;
 }
 .link2{
     position: relative;
-    left: 41%;
+    left: 43%;
 }
 .link3{
     position: relative;
-    left: 58%;
+    left: 60%;
 }
 .line{
     position: relative;
@@ -200,7 +201,7 @@ a{
 }
 .backrect1{
     position: relative;
-    max-width: 600px;
+    width: 250%;
     height: 200px;
     top: 44px;
     left: 16.5%;

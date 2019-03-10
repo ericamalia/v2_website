@@ -180,10 +180,10 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 890px;
+    width: 900px;
     height: 200px;
     top: 44px;
-    left: 40px;
+    left: 23%;
     background: #E09898;
 }
 #description{
@@ -196,7 +196,7 @@ a{
     color: #FFFFFF;
 
     padding: 0px;
-    left: 50px;
+    left: 25%;
     top: -115px;
 }
 
@@ -205,7 +205,7 @@ a{
     padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 52px;
+    left: 27%;
     top: -90px;
 }
 #more_text{

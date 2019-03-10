@@ -192,7 +192,7 @@ a{
     position: relative;
     padding-top: 30px;
     font-family: 'Raleway';
-    font-weight: 450;
+    font-weight: 400;
     line-height: normal;
     font-size: 30px;
     letter-spacing: 0.03em;
@@ -202,7 +202,7 @@ a{
 .backrect1{
     position: relative;
     margin: auto; 
-    width: 920px;
+    /*width: 920px;*/
     max-width: 900px;
     height: 200px;
     top: 44px;

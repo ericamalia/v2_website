@@ -182,10 +182,10 @@ a{
 }
 .backrect1{
     position: relative;
-    max-width: 920px;
+    width: 920px;
     height: 200px;
     top: 44px;
-    left: 16%;
+    left: 16.5%;
     background: #E09898;
 }
 #description{
@@ -198,7 +198,7 @@ a{
     color: #FFFFFF;
 
     padding: 0px;
-    left: 19%;
+    left: 19.5%;
     top: -115px;
 }
 
@@ -207,7 +207,7 @@ a{
     padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 20%;
+    left: 20.5%;
     top: -90px;
 }
 #more_text{

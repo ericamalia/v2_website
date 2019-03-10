@@ -62,7 +62,7 @@
     font-size: 23px;
 }
 
-.primary{
+/*.primary{
     display:flex;
     flex-direction: row;
     position: relative;
@@ -149,7 +149,25 @@ a{
     left: 58%;
     text-align: center;
 }
-
+*/
+.links{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 32px;
+}
+.link1{
+    position: relative;
+    left: 23%;
+}
+.link2{
+    position: relative;
+    left: 41%;
+}
+.link3{
+    position: relative;
+    left: 58%;
+}
 .line{
     position: relative;
     left: 230px;

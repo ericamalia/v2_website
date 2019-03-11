@@ -197,12 +197,12 @@ a{
     font-size: 30px;
     letter-spacing: 0.03em;
     color: #4C494E;
-    left: 13%;
+    left: 8%;
 }
 .backrect1{
     position: relative;
     /*margin: auto; */
-    width: 920px;
+    width: 800px;
     /*max-width: 900px;*/
     height: 200px;
     top: 44px;
@@ -219,7 +219,7 @@ a{
     color: #FFFFFF;
 
     padding: 0px;
-    left: 19.5%;
+    left: 13.5%;
     top: -115px;
 }
 
@@ -228,7 +228,7 @@ a{
     padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 20%;
+    left: 14%;
     top: -90px;
 }
 #more_text{

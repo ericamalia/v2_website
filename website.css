@@ -201,12 +201,12 @@ a{
 }
 .backrect1{
     position: relative;
-    margin: auto; 
+    /*margin: auto; */
     width: 920px;
     /*max-width: 900px;*/
     height: 200px;
     top: 44px;
-    /*left: 16.5%;*/
+    left: 16.5%;
     background: #E09898;
 }
 #description{

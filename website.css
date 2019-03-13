@@ -201,13 +201,18 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 700px;
-    /*width: 80%;
-    height: 30%;*/
-    height: 200px;
+    width: 80%;
+    /*width: 700px;
+    height: 30%;
+    height: 200px;*/
     top: 44px;
     left: 10%;
     background: #E09898;
+}
+.backrect1::before{
+    content: "";
+    display: block;
+    padding-top: 200%;
 }
 #description{
     position: relative;

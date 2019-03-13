@@ -212,7 +212,7 @@ a{
 .backrect1::before{
     content: "";
     display: block;
-    padding-left: 50%;
+    padding-top: 100%;
 }
 #description{
     position: relative;

@@ -202,8 +202,8 @@ a{
 .backrect1{
     position: relative;
     width: 200%;
-    height: 30%;
-    /*width: 700px;
+    /*height: 30%;
+    width: 700px;
     height: 30%;
     height: 200px;*/
     top: 44px;
@@ -213,7 +213,7 @@ a{
 .backrect1::before{
     content: "";
     display: block;
-    padding-top: 25%;
+    padding-top: 10%;
 }
 #description{
     position: relative;
@@ -226,7 +226,7 @@ a{
 
     padding: 0px;
     left: 13.5%;
-    top: -40%;
+    top: -115px;
 }
 
 .more{

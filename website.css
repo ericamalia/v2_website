@@ -201,7 +201,7 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 100%;
+    width: 140%;
     height: 30%;
     /*width: 700px;
     height: 30%;
@@ -220,7 +220,7 @@ a{
     font-family: 'Roboto';
     font-weight: 500;
     line-height: 23px;
-    font-size: 18px;
+    font-size: 100%;
     letter-spacing: 0.04em;
     color: #FFFFFF;
 
@@ -241,7 +241,7 @@ a{
     position: relative;
     font-family: 'Roboto';
     font-weight: 600;
-    font-size: 14px;
+    font-size: 80%;
     letter-spacing: 0.06em;
     color: #592A6F;
 }

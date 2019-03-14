@@ -201,7 +201,7 @@ a{
 }
 .backrect1{
     position: relative;
-    width: 180%;
+    width: 200%;
     height: 30%;
     /*width: 700px;
     height: 30%;
@@ -226,7 +226,7 @@ a{
 
     padding: 0px;
     left: 13.5%;
-    top: -70%;
+    top: -40%;
 }
 
 .more{

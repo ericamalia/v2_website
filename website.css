@@ -218,6 +218,9 @@ a{
 }
 */
 .flex-rectangle{
+    position: relative;
+    top: 44px;
+    left: 10%;
     width: 100%;
     background: #E09898;
 }

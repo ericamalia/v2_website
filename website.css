@@ -227,7 +227,7 @@ a{
 .flex-rectangle::before{
     content: "";
     display: block;
-    padding-top: 25%;
+    padding-top: 20%;
 }
 #description{
     position: relative;

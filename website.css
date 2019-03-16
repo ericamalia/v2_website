@@ -217,11 +217,11 @@ a{
     padding-top: 100%;
 }
 */
-.backrect1{
+.flex-rectangle{
     width: 100%;
     background: #E09898;
 }
-.backrect1:before{
+.flex-rectangle::before{
     content: "";
     display: block;
     padding-top: 25%;

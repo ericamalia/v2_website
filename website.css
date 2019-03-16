@@ -199,13 +199,14 @@ a{
     color: #4C494E;
     left: 8%;
 }
+/*
 .backrect1{
     position: relative;
     width: 30%;
     /*height: 30%;
     width: 700px;
     height: 30%;
-    height: 200px;*/
+    height: 200px;
     top: 44px;
     left: 10%;
     background: #E09898;
@@ -214,6 +215,16 @@ a{
     content: "";
     display: block;
     padding-top: 100%;
+}
+*/
+.backrect1{
+    width: 100%;
+    background: #E09898;
+}
+.backrect1:before{
+    content: "";
+    display: block;
+    padding-top: 25%;
 }
 #description{
     position: relative;

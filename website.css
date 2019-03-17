@@ -219,9 +219,9 @@ a{
 */
 .flex-rectangle{
     position: relative;
-    top: 44px;
+    top: 42px;
     left: 10%;
-    width: 180%;
+    width: 200%;
     background: #E09898;
 }
 .flex-rectangle::before{
@@ -240,7 +240,7 @@ a{
 
     padding: 0px;
     left: 13.5%;
-    top: -115px;
+    top: -120px;
 }
 
 .more{

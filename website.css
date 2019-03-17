@@ -221,13 +221,13 @@ a{
     position: relative;
     top: 44px;
     left: 10%;
-    width: 150%;
+    width: 180%;
     background: #E09898;
 }
 .flex-rectangle::before{
     content: "";
     display: block;
-    padding-top: 25%;
+    padding-top: 30%;
 }
 #description{
     position: relative;

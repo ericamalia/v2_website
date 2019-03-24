@@ -5,7 +5,7 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 185px;
-    height: 2000px;
+    height: 1000px;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
@@ -42,13 +42,16 @@ a{
     position: relative;
     max-width: 40%;
     height: auto;
-    left: 70%;
+    left: 80%;
     top: 50%;
 }
 
 #yellow{
-    width: 215.44px;
-    height: 203.83px;
+    /*width: 215.44px;
+    height: 203.83px;*/
+    border-left: 200px;
+    border-right:200px;
+    border-bottom: 200px;
     background: linear-gradient(180deg, #EDE099 0%, 
     rgba(237, 224, 153, 0.7) 38.12%, 
     rgba(196, 196, 196, 0) 100%);

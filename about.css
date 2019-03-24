@@ -45,3 +45,13 @@ a{
     left: 70%;
     top: 30%;
 }
+
+#yellow{
+    width: 215.44px;
+    height: 203.83px;
+    background: linear-gradient(180deg, #EDE099 0%, 
+    rgba(237, 224, 153, 0.7) 38.12%, 
+    rgba(196, 196, 196, 0) 100%);
+    border-radius: 4px;
+    transform: rotate(65deg);
+}

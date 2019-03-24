@@ -10,3 +10,25 @@
     top: 1.5%;   
     bottom: 0;
 }
+a{
+    text-decoration: none;
+    color: #3C3838;
+}
+.elements{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 22px;
+    text-align: center;
+    color: #3C3838;
+
+    align-content: center;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+#elm{
+    padding-top: 10px;
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway:700');
+
+.navigation{
+    background: rgba(246, 242, 242, 0.58);
+    position: absolute;
+    width: 185px;
+    height: 2000px;
+    left: 0.7%;
+    top: 1.5%;   
+    bottom: 0;
+}

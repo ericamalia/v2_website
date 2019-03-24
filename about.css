@@ -40,7 +40,8 @@ a{
 
 #profpic{
     position: relative;
-    max-width: 40%;
+    max-width: 100%;
+    width: 100%;
     height: auto;
     left: 70%;
     top: 500px;

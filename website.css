@@ -204,7 +204,7 @@ a{
     position: relative;
     top: 40px;
     left: 10%;
-    width: 240%;
+    width: 250%;
     background: #E09898;
 }
 .flex-rectangle::before{
@@ -245,7 +245,7 @@ a{
 .image1{
     position:relative;
     left: 18%;
-    top: 20px; 
+    top: 25px; 
 }
 
 

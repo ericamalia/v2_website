@@ -199,24 +199,7 @@ a{
     color: #4C494E;
     left: 8%;
 }
-/*
-.backrect1{
-    position: relative;
-    width: 30%;
-    /*height: 30%;
-    width: 700px;
-    height: 30%;
-    height: 200px;
-    top: 44px;
-    left: 10%;
-    background: #E09898;
-}
-.backrect1::before{
-    content: "";
-    display: block;
-    padding-top: 100%;
-}
-*/
+
 .flex-rectangle{
     position: relative;
     top: 40px;
@@ -259,7 +242,11 @@ a{
     letter-spacing: 0.06em;
     color: #592A6F;
 }
+.image1{
+    position:relative;
+    left: 20%;
 
+}
 
 
 

@@ -9,7 +9,10 @@
     top: 1.5%;   
     bottom: 0;
 }
-
+a{
+    text-decoration: none;
+    color: #555157;
+}
 .prof{
     align-content: center;
     padding-top: 160px;

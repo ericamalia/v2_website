@@ -50,9 +50,9 @@ a{
 #yellow{
     /*width: 215.44px;
     height: 203.83px;*/
-    border-left: 200px transparent;
-    border-right:200px transparent;
-    border-bottom: 200px bold;
+    border-left: 200px;
+    border-right: 200px;
+    border-bottom: 200px;
     background: linear-gradient(180deg, #EDE099 0%, 
     rgba(237, 224, 153, 0.7) 38.12%, 
     rgba(196, 196, 196, 0) 100%);

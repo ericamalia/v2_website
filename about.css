@@ -40,10 +40,10 @@ a{
 
 #profpic{
     position: relative;
-    width: 40%;
-    height: 70%;
+    max-width: 40%;
+    height: auto;
     left: 70%;
-    top: 30%;
+    top: 50%;
 }
 
 #yellow{

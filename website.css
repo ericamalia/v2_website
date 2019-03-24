@@ -248,8 +248,76 @@ a{
 .image1{
     position:relative;
     left: 18%;
-    top: 30px; 
+    top: 32px; 
 }
 
 
+.proj2{
+    position: relative;
+    display:flex;
+    flex-direction: row;
+    top: 230px;
+    left: 240px;
+}
+.content2{
+    display:flex;
+    flex-direction: column;
+}
+#title2{
+    position: relative;
+    padding-top: 30px;
+    font-family: 'Raleway';
+    font-weight: 400;
+    line-height: normal;
+    font-size: 30px;
+    letter-spacing: 0.03em;
+    color: #4C494E;
+    left: 30%;
+}
+.flex-rectangle2{
+    position: relative;
+    top: 80px;
+    left: 10%;
+    width: 250%;
+    background:#AE7DC5;
+}
+.flex-rectangle2::before{
+    content: "";
+    display: block;
+    padding-top: 30%;
+}
+#description2{
+    position: relative;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 23px;
+    font-size: 100%;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
 
+    padding: 0px;
+    left: 30%;
+    top: -10px;
+}
+
+.more2{
+    position: relative;
+    padding-top: 20px;
+    display:flex;
+    flex-direction: row;
+    left: 30%;
+    top: 20px;
+}
+#more_text2{
+    position: relative;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 80%;
+    letter-spacing: 0.06em;
+    color: #592A6F;
+}
+.image2{
+    position:relative;
+    left: 8%;
+    top: 66px; 
+}

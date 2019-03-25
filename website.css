@@ -225,7 +225,7 @@ a{
     color: #FFFFFF;
 
     padding: 0px;
-    left: 13.5%;
+    left: 30%;
     top: -120px;
 }
 
@@ -234,7 +234,7 @@ a{
     padding-top: 20px;
     display:flex;
     flex-direction: row;
-    left: 14%;
+    left: 30%;
     top: -90px;
 }
 #more_text{
@@ -272,11 +272,11 @@ a{
     font-size: 30px;
     letter-spacing: 0.03em;
     color: #4C494E;
-    left: 60%;
+    left: 80%;
 }
 .flex-rectangle2{
     position: relative;
-    top: 80px;
+    top: 60px;
     left: 10%;
     width: 250%;
     background:#AE7DC5;
@@ -297,7 +297,7 @@ a{
 
     padding: 0px;
     left: 30%;
-    top: -25px;
+    top: -5px;
 }
 
 .more2{
@@ -306,7 +306,7 @@ a{
     display:flex;
     flex-direction: row;
     left: 30%;
-    top: 0px;
+    top: -20px;
 }
 #more_text2{
     position: relative;
@@ -318,6 +318,5 @@ a{
 }
 .image2{
     position:relative;
-    left: 2%;
-    top: 60px; 
+    top: 40px; 
 }

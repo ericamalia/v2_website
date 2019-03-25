@@ -272,11 +272,11 @@ a{
     font-size: 30px;
     letter-spacing: 0.03em;
     color: #4C494E;
-    left: 130%;
+    left: 8%;
 }
 .flex-rectangle2{
     position: relative;
-    top: 40px;
+    top:20px;
     left: 10%;
     width: 250%;
     background:#AE7DC5;
@@ -297,7 +297,7 @@ a{
 
     padding: 0px;
     left: 30%;
-    top: -70px;
+    top: -90px;
 }
 
 .more2{
@@ -306,7 +306,7 @@ a{
     display:flex;
     flex-direction: row;
     left: 30%;
-    top: -50px;
+    top: -70px;
 }
 #more_text2{
     position: relative;
@@ -318,6 +318,6 @@ a{
 }
 .image2{
     position:relative;
-    left: -100px;
-    top: 20px; 
+    left: 18%;
+    top: 0px; 
 }

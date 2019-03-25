@@ -265,18 +265,18 @@ a{
 }
 #title2{
     position: relative;
-    padding-top: 30px;
+    padding-top: 10px;
     font-family: 'Raleway';
     font-weight: 400;
     line-height: normal;
     font-size: 30px;
     letter-spacing: 0.03em;
     color: #4C494E;
-    left: 80%;
+    left: 90%;
 }
 .flex-rectangle2{
     position: relative;
-    top: 60px;
+    top: 40px;
     left: 10%;
     width: 250%;
     background:#AE7DC5;
@@ -297,7 +297,7 @@ a{
 
     padding: 0px;
     left: 30%;
-    top: -5px;
+    top: -20px;
 }
 
 .more2{
@@ -306,7 +306,7 @@ a{
     display:flex;
     flex-direction: row;
     left: 30%;
-    top: -20px;
+    top: -40px;
 }
 #more_text2{
     position: relative;
@@ -318,5 +318,6 @@ a{
 }
 .image2{
     position:relative;
-    top: 40px; 
+    left: -40px;
+    top: 20px; 
 }

@@ -265,7 +265,7 @@ a{
 }
 #title2{
     position: relative;
-    padding-top: 10px;
+    padding-top: -5px;
     font-family: 'Raleway';
     font-weight: 400;
     line-height: normal;
@@ -297,7 +297,7 @@ a{
 
     padding: 0px;
     left: 30%;
-    top: -90px;
+    top: -100px;
 }
 
 .more2{
@@ -306,7 +306,7 @@ a{
     display:flex;
     flex-direction: row;
     left: 30%;
-    top: -70px;
+    top: -80px;
 }
 #more_text2{
     position: relative;

@@ -54,12 +54,9 @@ a{
     border-right: 100px solid transparent;
     border-top: 100px solid transparent;
     border-bottom: 100px solid;
-    border-bottom-color: linear-gradient(180deg, #EDE099 0%, 
+    background: linear-gradient(180deg, #EDE099 0%, 
     rgba(237, 224, 153, 0.7) 38.12%, 
     rgba(196, 196, 196, 0) 100%);
-    /*background: linear-gradient(180deg, #EDE099 0%, 
-    rgba(237, 224, 153, 0.7) 38.12%, 
-    rgba(196, 196, 196, 0) 100%);*/
     border-radius: 4px;
     transform: rotate(65deg);
 }

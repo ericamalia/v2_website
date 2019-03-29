@@ -55,14 +55,19 @@ h1{
 
     position: relative;
     left: 240px;
-    top: -80%;
+    top: -90%;
+}
+.descrip{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #555157;
 }
 
 #yellow{
     width: 0;
     height: 0;
-    border-left: 95px solid transparent;
-    border-right: 95px solid transparent;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
     border-top: 80px solid transparent;
     border-bottom: 100px solid  rgba(237, 224, 153, 0.66);
     /*background: linear-gradient(180deg, #EDE099 0%, 

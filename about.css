@@ -48,7 +48,7 @@ a{
 }
 
 h1{
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-size: 37px;
     font-weight: 600;
     color: #555157;

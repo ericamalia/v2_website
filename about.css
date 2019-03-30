@@ -44,7 +44,7 @@ a{
     width: 20%;
     height: auto;
     left: 74%;
-    top: -100%;
+    top: -110%;
 }
 
 h1{
@@ -91,13 +91,13 @@ h1{
 .triangle_y1{
     position: relative;
     top: 600px;
-    left: 400px;
+    left: 460px;
     transform: rotate(65deg);
 }
 
 .triangle_y2{
     position: relative;
-    top: 400px;
-    left: 700px;
+    top: 300px;
+    left: 740px;
     transform: rotate(-140deg);
 }

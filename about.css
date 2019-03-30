@@ -44,7 +44,7 @@ a{
     width: 20%;
     height: auto;
     left: 74%;
-    padding-top: 60px;
+    top: -110%;
 }
 
 h1{
@@ -64,7 +64,7 @@ h1{
     font-style: normal;
     color: #8A898B;
     letter-spacing: .02px;
-    line-height: 50px;
+    line-height: 10px;
 
     position: relative;
     left: 240px;
@@ -90,14 +90,14 @@ h1{
 
 .triangle_y1{
     position: relative;
-    top: 100px;
-    left: 500px;
+    top: 400px;
+    left: 400px;
     transform: rotate(65deg);
 }
 
 .triangle_y1{
     position: relative;
     top: 400px;
-    left: 400px;
+    left: 600px;
     transform: rotate(-140deg);
 }

@@ -44,7 +44,7 @@ a{
     width: 20%;
     height: auto;
     left: 74%;
-    padding-top: 160px;
+    padding-top: 60px;
 }
 
 h1{
@@ -55,7 +55,7 @@ h1{
 
     position: relative;
     left: 240px;
-    top: -95%;
+    top: -120%;
 }
 .descrip{
     font-family: 'Roboto';
@@ -64,11 +64,11 @@ h1{
     font-style: normal;
     color: #8A898B;
     letter-spacing: .02px;
-    line-height: 300px;
+    line-height: 50px;
 
     position: relative;
     left: 240px;
-    top: -88%;
+    top: -110%;
 }
 
 #yellow{

@@ -55,17 +55,17 @@ h1{
 
     position: relative;
     left: 240px;
-    top: -80%;
+    top: -90%;
 }
 .descrip{
     font-family: 'Raleway', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    color: #555157;
+    font-size: 16px;
+    font-weight: 200px;
+    color: #8A898B;
     letter-spacing: .02px;
     position: relative;
     left: 240px;
-    top: -60%;
+    top: -70%;
 }
 
 #yellow{
@@ -88,6 +88,6 @@ h1{
 
 .triangle_y1{
     position: relative;
-    top: 50px;
+    top: 40px;
     left: 400px;
 }

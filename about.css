@@ -44,7 +44,7 @@ a{
     width: 20%;
     height: auto;
     left: 74%;
-    top: -110%;
+    top: -100%;
 }
 
 h1{
@@ -55,7 +55,7 @@ h1{
 
     position: relative;
     left: 240px;
-    top: -120%;
+    top: -110%;
 }
 .descrip{
     font-family: 'Roboto';
@@ -64,11 +64,11 @@ h1{
     font-style: normal;
     color: #8A898B;
     letter-spacing: .02px;
-    line-height: 10px;
+    line-height: 25px;
 
     position: relative;
     left: 240px;
-    top: -110%;
+    top: -100%;
 }
 
 #yellow{
@@ -90,14 +90,14 @@ h1{
 
 .triangle_y1{
     position: relative;
-    top: 400px;
+    top: 600px;
     left: 400px;
     transform: rotate(65deg);
 }
 
-.triangle_y1{
+.triangle_y2{
     position: relative;
     top: 400px;
-    left: 600px;
+    left: 700px;
     transform: rotate(-140deg);
 }

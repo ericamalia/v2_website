@@ -58,9 +58,9 @@ h1{
     top: -95%;
 }
 .descrip{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto';
     font-size: 16px;
-    font-weight: 50px;
+    font-weight: normal;
     color: #8A898B;
     letter-spacing: .02px;
     position: relative;

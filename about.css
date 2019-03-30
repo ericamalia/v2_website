@@ -5,7 +5,7 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 185px;
-    height: 800px;
+    height: 700px;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
@@ -60,12 +60,12 @@ h1{
 .descrip{
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
-    font-weight: 100px;
+    font-weight: 50px;
     color: #8A898B;
     letter-spacing: .02px;
     position: relative;
     left: 240px;
-    top: -80%;
+    top: -88%;
 }
 
 #yellow{

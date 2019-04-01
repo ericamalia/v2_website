@@ -44,7 +44,7 @@ a{
     width: 20%;
     height: auto;
     left: 76%;
-    top: 100%;
+    top: 400px;
 }
 
 h1{
@@ -55,7 +55,7 @@ h1{
 
     position: relative;
     left: 240px;
-    top: 400px;
+    top: -107%;
 }
 .descrip{
     font-family: 'Roboto';
@@ -88,6 +88,15 @@ h1{
     border-radius: 5px;
 }
 
+#blue{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 80px solid transparent;
+    border-bottom: 100px solid rgba(152, 202, 224, 0.58);
+    border-radius: 5px;
+}
 .triangle_y1{
     position: relative;
     top: 460px;

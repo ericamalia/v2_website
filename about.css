@@ -113,14 +113,14 @@ h1{
 
 .triangle_b1{
     position: relative;
-    top: 260px;
+    top: 60px;
     left: 160px;
     transform: rotate(-26deg);
 }
 
 .triangle_b2{
     position: relative;
-    top: 50px;
-    left: 840px;
+    top: 30px;
+    left: 900px;
     transform: rotate(50deg);
 }

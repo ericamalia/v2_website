@@ -55,7 +55,7 @@ h1{
 
     position: relative;
     left: 240px;
-    top: 30%;
+    top: 50px;
 }
 .descrip{
     font-family: 'Roboto';
@@ -68,7 +68,7 @@ h1{
 
     position: absolute;
     left: 240px;
-    top: 40%;
+    top: 150px;
 }
 
 #yellow{

@@ -97,6 +97,9 @@ h1{
     border-bottom: 100px solid rgba(152, 202, 224, 0.58);
     border-radius: 5px;
 }
+.tricontainer{
+    position: relative;
+}
 .triangle_y1{
     position: absolute;
     top: 460px;

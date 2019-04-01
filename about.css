@@ -5,7 +5,7 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 185px;
-    height: 900px;
+    height: 100%;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
@@ -109,4 +109,18 @@ h1{
     top: 150px;
     left: 740px;
     transform: rotate(-140deg);
+}
+
+.triangle_b1{
+    position: relative;
+    top: 260px;
+    left: 160px;
+    transform: rotate(-26deg);
+}
+
+.triangle_b2{
+    position: relative;
+    top: 50px;
+    left: 840px;
+    transform: rotate(50deg);
 }

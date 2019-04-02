@@ -141,13 +141,13 @@ h1{
 .triangle_r1{
     position: absolute;
     top: -20px;
-    left: 450px;
+    left: 420px;
     transform: rotate(-50deg);
 }
 
 .triangle_r2{
     position: absolute;
-    top: 430px;
-    left: 1200px;
+    top: 460px;
+    left: 1150px;
     transform: rotate(50deg);
 }

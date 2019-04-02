@@ -69,7 +69,7 @@ h1{
     position: absolute;
     left: 240px;
     top: 165px;
-    width: 37%;
+    width: 45%;
 }
 
 #yellow{
@@ -121,7 +121,7 @@ h1{
 .triangle_y2{
     position: absolute;
     top: 250px;
-    left: 755px;
+    left: 765px;
     transform: rotate(-140deg);
 }
 
@@ -142,7 +142,7 @@ h1{
 .triangle_r1{
     position: absolute;
     top: -20px;
-    left: 420px;
+    left: 410px;
     transform: rotate(-50deg);
 }
 

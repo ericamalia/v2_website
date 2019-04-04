@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700');
+
+.navigation{
+    background: rgba(246, 242, 242, 0.58);
+    position: absolute;
+    width: 185px;
+    height: 2000px;
+    left: 0.7%;
+    top: 1.5%;   
+    bottom: 0;
+}
+a{
+    text-decoration: none;
+    color: #3C3838;
+}
+.prof{
+    align-content: center;
+    padding-top: 160px;
+    left: 0%;
+}
+.elements{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 22px;
+    text-align: center;
+    color: #3C3838;
+
+    align-content: center;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+#elm{
+    padding-top: 10px;
+}
+
+/* HEADER */
+.header{
+    background: linear-gradient(96.83deg, #E09898 0%, 
+    rgba(224, 152, 152, 0.38) 64.09%, rgba(224, 152, 152, 0.22) 100%);
+    width: 75%;
+    height: 55%;
+
+    position: relative;
+    left: 20%;
+}
+#head-img{
+    align-content: center;
+    position: absolute;
+    left: 32%;
+    top: 5%;
+}
+#head-title{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: .03px;
+    color:white; 
+    position: absolute;
+    top: 65%;
+    left: 30%;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: .05px;
+    color:white ; 
+    position: absolute;
+    left: 18%;
+    top: 74%;
+}
+
+/* CONTENT titles and text */
+
+#title{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px; 
+    font-weight: 700;
+    color: #3C3838; 
+    position: relative;
+    left: 5%;
+    padding-top: 3%;
+}
+#text{
+    width: 57%;
+    font-family: 'Raleway';
+    font-size: 15px; 
+    font-weight: 500;
+    line-height: 22px;
+    color: #302E2E;
+    position: relative;
+    left: 28%;
+}
+
+i{
+    color: #E09898;
+}
+
+.survey-imgs{
+    display:flex;
+    flex-direction: inline;
+    position:relative;
+    left: 28%;
+}

@@ -5,7 +5,7 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 185px;
-    height: 2000px;
+    height: 9500px;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
@@ -85,10 +85,12 @@ h2{
     font-family: 'Raleway', sans-serif;
     font-size: 20px; 
     font-weight: 700;
-    color: #3C3838; 
+    letter-spacing: .1px;
+    color: #4B484D; 
     position: relative;
     left: 5%;
     padding-top: 3%;
+    
 }
 #text{
     width: 57%;
@@ -110,4 +112,45 @@ i{
     flex-direction: inline;
     position:relative;
     left: 28%;
+}
+.am-imgs{
+   text-align: center;
+   
+}
+#cr-img{
+    text-align: center;
+}
+
+.gray{
+    background-color: #F5F5F5; 
+    width: 84.52%;
+    height: 175%;
+    position: absolute;
+    left: 15.48%;
+    top: 1004%;
+}
+.pal{
+    position: relative;
+    left: 26%;
+}
+.frame-row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#content-row{
+    width: 40%;
+    color: #7B7A7A;
+}
+#title-row{
+    position: relative;
+    left: 60%;
+    top: 30%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #E09898;
+}
+#cen-img{
+    position: relative;
+    left:13%;
 }

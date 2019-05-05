@@ -4,11 +4,12 @@
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
-    width: 185px;
+    width: 15%;
     height: 100%;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
+    z-index: -1;
 }
 a{
     text-decoration: none;
@@ -17,7 +18,9 @@ a{
 .prof{
     align-content: center;
     padding-top: 160px;
-    left: 0%;
+    
+    position: relative;
+    left: -2%;
 }
 .elements{
     display: flex;
@@ -33,6 +36,11 @@ a{
     align-content: center;
     justify-content: space-between;
     padding-top: 60px;
+
+    position: absolute;
+    left: 5%;
+    top: 45%;
+    z-index: 1;
 }
 #elm{
     padding-top: 10px;

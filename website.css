@@ -5,11 +5,12 @@
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
-    width: 185px;
-    height: 1550px;
+    width: 15%;
+    height: 1450px;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
+    z-index: -1;
 }
 a{
     text-decoration: none;
@@ -18,7 +19,8 @@ a{
 .prof{
     align-content: center;
     padding-top: 160px;
-    left: 0%;
+    position: relative;
+    left: -2%;
 }
 .elements{
     display: flex;
@@ -34,6 +36,11 @@ a{
     align-content: center;
     justify-content: space-between;
     padding-top: 60px;
+
+    position: absolute;
+    left: 5%;
+    top: 45%;
+    z-index: 1;
 }
 #elm{
     padding-top: 10px;
@@ -41,11 +48,11 @@ a{
 
 /* HEADER */
 .head-intro{
-    left: 20%;
+    left: 25%;
 }
 .myname{
     position: relative;
-    left: 20%;
+    left: 25%;
     padding-top: 3%;
     font-weight: bolder;
     font-family: 'Raleway', sans-serif;
@@ -56,7 +63,7 @@ a{
 }
 .bio{
     position: relative;
-    left: 20%;
+    left: 25%;
     width: 65%;
     padding-top: 3%;
 
@@ -71,95 +78,6 @@ a{
 #hello{
     font-size: 23px;
 }
-
-/*.primary{
-    display:flex;
-    flex-direction: row;
-    position: relative;
-    top: 65px;
-}
-.prect1{
-    position: relative;
-    background-color:#E09898;
-    width: 113px;
-    height: 21px;
-    left: 23%;
-    text-align: center;
-}
-.prect2{
-    position: relative;
-    background-color: #98CAE0;
-    width: 113px;
-    height: 21px;
-    left: 39%;
-}
-.prect3{
-    position: relative;
-    background-color: #EDE099;
-    width: 113px;
-    height: 21px;
-    left: 55%;
-}
-
-.purple{
-    display: flex;
-    flex-direction: row;
-    position: relative;
-    top: 64px;
-}
-.rect1{
-    position: relative;
-    background-color: #D9CDDF;
-    width: 113px;
-    height: 21px;
-    left: 21%;
-    text-align: center;
-}
-.rect2{
-    position: relative;
-    background-color: #D9CDDF;
-    width: 113px;
-    height: 21px;
-    left: 37%;
-}
-.rect3{
-    position: relative;
-    background-color: #D9CDDF;
-    width: 113px;
-    height: 21px;
-    left: 53%;
-}
-
-.linkname{
-    display: flex;
-    flex-direction: row;
-    position: relative;
-    top: 32px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    letter-spacing: 0.02px;
-}
-a{
-    color: #555157;
-}
-.lrect1{
-    position: relative;
-    left: 23%;
-    text-align: center;
-}
-.lrect2{
-    position: relative;
-    left: 41%;
-    text-align: center;
-}
-.lrect3{
-    position: relative;
-    left: 58%;
-    text-align: center;
-}
-*/
 
 .links{
     display: flex;
@@ -189,7 +107,7 @@ a{
     border: 3px solid #E8E8E8;
 }
 
-/* PROJ 1 - out and about */
+/* PROJS */
 
 .proj{
     position: relative;

@@ -6,7 +6,7 @@
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 15%;
-    height: 1450px;
+    height: 220%;
     left: 0.7%;
     top: 1.5%;   
     bottom: 0;
@@ -101,7 +101,7 @@ a{
 }
 .line{
     position: relative;
-    left: 17%;
+    left: 19%;
     width: 75%; 
     height: 0;
     border: 3px solid #E8E8E8;

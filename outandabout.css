@@ -53,13 +53,8 @@ a{
 
 /* HEADER */
 .header{
-    background: linear-gradient(96.83deg, #E09898 0%, 
-    rgba(224, 152, 152, 0.38) 64.09%, rgba(224, 152, 152, 0.22) 100%);
-    width: 75%;
-    height: 60%;
-
     position: relative;
-    left: 20%;
+    left: 19%;
 }
 #head-img{
     align-content: center;

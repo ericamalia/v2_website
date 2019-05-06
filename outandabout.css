@@ -1,13 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700');
 
+.wrapper{
+    min-height:100%;
+    width:100%;
+    position:relative;
+    display:inline-block;
+}
 .navigation{
     background: rgba(246, 242, 242, 0.58);
     position: absolute;
     width: 15%;
-    height: 1780%;
+    /*height: 1780%;
     left: 0.7%;
-    top: 1.5%;   
+    top: 1.5%;*/
+    top:0px;
+    left:0px;
+    bottom:0px;
     z-index: -1;
 }
 a{
@@ -38,7 +47,7 @@ a{
 
     position: absolute;
     left: 5%;
-    top: 45%;
+    top: 2.5%;
     z-index: 1;
 }
 #elm{
